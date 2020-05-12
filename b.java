@@ -1,3 +1,4 @@
+code after used branch b2
 import java.util.Scanner;
 class DecimalToHexExample
 {
